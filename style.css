@@ -13,7 +13,7 @@ button {
 }
 
 button:hover {
-    box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.4);
 }
 
 li {
